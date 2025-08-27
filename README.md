@@ -1,6 +1,6 @@
 Which model performed better and why?
 
-The Random Forest model usually performs slightly better than Logistic Regression (around 96–98% vs. 93–96%). This happens because Random Forest is an ensemble method that combines many decision trees, making it better at capturing complex patterns in pixel values.
+The Random Forest model usually performs slightly better than Logistic Regression (around 96–98% vs. 93–96%). This happens because Random Forest is an ensemble method that combines many decision trees, making it better at capturing complex patterns in pixel values. Random forest also performs better on non-linear pixel patterns thus there is higher accuracy as compared to logistic regression.
 
 What do accuracy and confusion matrix mean?
 
